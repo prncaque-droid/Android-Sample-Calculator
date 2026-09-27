@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="calculator_background">#101114</color>
+    <color name="calculator_number_key">#25272D</color>
+    <color name="calculator_function_key">#3A3D45</color>
+    <color name="calculator_operator_key">#FF9F0A</color>
+    <color name="calculator_text_primary">#FFFDF8</color>
+    <color name="calculator_text_secondary">#B8BAC2</color>
+</resources>
